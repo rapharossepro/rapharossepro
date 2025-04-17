@@ -6,10 +6,6 @@
 <h1 align="center">👨‍💻 Raphael Del Rosse</h1>
 <h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Automação | Criador da SENT.IA 👁️</h3>
 
-<p align="center">
-  <img src="assets/Avatar_Raphael_IA.png" alt="Avatar IA" width="180" style="border-radius: 50%;"/>
-</p>
-
 <p align="center"><em>"Because every person leaves a signal."</em></p>
 
 ---
