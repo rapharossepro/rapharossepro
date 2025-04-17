@@ -33,7 +33,7 @@ Busco transformar ideias em soluções eficientes, escaláveis e seguras, com fo
 
 ## 🚀 Projetos em destaque
 
-- 🔭 [SENT.IA](https://github.com/rapharossepro/sentia-intelligent-alert-system): Projeto conceitual e acadêmico de uma plataforma de IA para rastreamento de desaparecidos, com base em tecnologias reais e propósito social.
+- 🔭 [SENT.IA](https://github.com/rapharossepro/sentia-intelligent-alert-system): **Projeto conceitual e acadêmico** de uma plataforma de IA para rastreamento de desaparecidos, com base em tecnologias reais e propósito social.
 
 > ⚠️ *Nota: Este projeto é conceitual e criado com fins acadêmicos e de aprendizado. Toda a estrutura representa uma simulação de aplicação real com potencial de desenvolvimento futuro.*
 
@@ -59,4 +59,4 @@ Busco transformar ideias em soluções eficientes, escaláveis e seguras, com fo
 
 ---
 
-<p align="center"><strong><em>"Nemo perditus est dum quaeritur."</em><br>🕯️ Nenhum ser humano está perdido enquanto for procurado.</strong></p>
+<p align="center"><strong><em>"A medida de um homem é o que ele faz com o poder."</em><br>⚖️ Platão</strong></p>
