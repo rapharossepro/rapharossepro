@@ -57,8 +57,6 @@ Busco transformar ideias em soluções eficientes, escaláveis e seguras, com fo
   </a>
 </p>
 
-📧 rapharossepro@gmail.com
-
 ---
 
 <p align="center"><strong><em>"Nemo perditus est dum quaeritur."</em><br>🕯️ Nenhum ser humano está perdido enquanto for procurado.</strong></p>
