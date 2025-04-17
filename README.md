@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/Logo_SENTIA_VIGIA.png" alt="SENT.IA Logo" width="250"/>
+  <img src="assets/Avatar_Raphael_IA.png" alt="Avatar Raphael IA" width="200" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">👨‍💻 Raphael Del Rosse</h1>
