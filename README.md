@@ -1,10 +1,6 @@
 
-<p align="center">
-  <img src="assets/Avatar_Raphael_IA.png" alt="Avatar Raphael IA" width="200" style="border-radius: 50%;" />
-</p>
-
 <h1 align="center">👨‍💻 Raphael Del Rosse</h1>
-<h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Automação | Criador da SENT.IA 👁️</h3>
+<h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Automação</h3>
 
 <p align="center"><em>"Because every person leaves a signal."</em></p>
 
@@ -18,32 +14,28 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia, inteligência artificial e projetos com propósito social. Criei a **SENT.IA**, um projeto conceitual voltado à criação de alertas para desaparecidos, explorando o uso de IA, biometria e comportamento.
+Sou estudante de Análise e Desenvolvimento de Sistemas com sólida base em infraestrutura e suporte técnico. Apaixonado por tecnologia, venho me especializando em Cloud Computing (AWS), automação, DevOps e linguagens como Python.
 
-Atualmente focado em:
-- 🌩️ Cloud Computing (AWS)
-- 🐧 Linux e Shell
-- 🐍 Python
-- ⚙️ DevOps & Automação
-- 🤖 Inteligência Artificial
+Busco transformar ideias em soluções eficientes, escaláveis e seguras, com foco em projetos que unem propósito social e inovação. Tenho interesse particular por temas como Inteligência Artificial, containers, orquestração e infraestrutura como código.
+
+---
+
+## 🧠 Competências Técnicas
+
+- 🌩️ **Cloud Computing**: AWS (EC2, S3, IAM, VPC, CloudWatch)
+- 🐧 **Linux**: Shell Script, gerenciamento de pacotes, permissões e automação
+- 🐍 **Python**: scripts, automação, integração com APIs
+- ⚙️ **DevOps**: Docker, Git, GitHub Actions, Terraform (básico)
+- 🧰 **Ferramentas**: VSCode, Git, GitHub, CLI, Postman
+- 📦 **Infraestrutura**: Conhecimentos em redes, VLANs, suporte a servidores e usuários
 
 ---
 
 ## 🚀 Projetos em destaque
 
-- 🔭 [SENT.IA](https://github.com/rapharossepro/sentia-intelligent-alert-system): **Projeto conceitual e acadêmico** de uma plataforma de IA para rastreamento de desaparecidos, com base em tecnologias reais e propósito social.
+- 🔭 [SENT.IA](https://github.com/rapharossepro/sentia-intelligent-alert-system): Projeto conceitual e acadêmico de uma plataforma de IA para rastreamento de desaparecidos, com base em tecnologias reais e propósito social.
 
 > ⚠️ *Nota: Este projeto é conceitual e criado com fins acadêmicos e de aprendizado. Toda a estrutura representa uma simulação de aplicação real com potencial de desenvolvimento futuro.*
-
----
-
-## 🧠 Em aprendizado
-
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
-![Linux](https://img.shields.io/badge/Linux-Terminal-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-Code-blue?style=for-the-badge&logo=python)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
 
 ---
 
