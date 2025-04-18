@@ -1,4 +1,3 @@
-
 <h1 align="center">👨‍💻 Raphael Del Rosse</h1>
 <h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Automação</h3>
 
@@ -33,7 +32,7 @@ Busco transformar ideias em soluções eficientes, escaláveis e seguras, com fo
 
 ## 🚀 Projetos em destaque
 
-- 🔭 [SENT.IA](https://github.com/rapharossepro/sentia-intelligent-alert-system): **Projeto conceitual e acadêmico** de uma plataforma de IA para rastreamento de desaparecidos, com base em tecnologias reais e propósito social.
+- 🔭 [SIDIAX](https://github.com/rapharossepro/sidiax): **Projeto conceitual e acadêmico** de uma plataforma de IA para rastreamento de desaparecidos, com base em tecnologias reais e propósito social.
 
 > ⚠️ *Nota: Este projeto é conceitual e criado com fins acadêmicos e de aprendizado. Toda a estrutura representa uma simulação de aplicação real com potencial de desenvolvimento futuro.*
 
