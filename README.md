@@ -11,10 +11,13 @@
 
 ---
 
-<code>
-Estudante de ADS focado em Cloud, DevOps e automação.  
-Movido por propósito, apaixonado por IA e tecnologias que resolvem problemas reais.
-</code>
+<pre>
+<span style="font-family:'Courier New', monospace; font-size: 15px;">
+⌨️ Codifico soluções como quem escreve poesia em shell script.
+☁️ Meu campo de batalha é a nuvem — onde a automação encontra o propósito.
+🧠 Entre bits e bytes, carrego a missão de transformar complexidade em clareza.
+</span>
+</pre>
 
 ---
 
