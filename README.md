@@ -11,8 +11,6 @@
 
 ---
 
-## 👋 Sobre mim
-
 Sou estudante de Análise e Desenvolvimento de Sistemas com sólida base em infraestrutura e suporte técnico. Apaixonado por tecnologia, venho me especializando em Cloud Computing (AWS), automação, DevOps e linguagens como Python.
 
 Busco transformar ideias em soluções eficientes, escaláveis e seguras, com foco em projetos que unem propósito social e inovação. Tenho interesse particular por temas como Inteligência Artificial, containers, orquestração e infraestrutura como código.
@@ -20,16 +18,25 @@ Busco transformar ideias em soluções eficientes, escaláveis e seguras, com fo
 ---
 
 <div align="left">
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+
   <img src="https://img.icons8.com/fluency/48/cloud.png" width="40" title="Cloud Computing"/>
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" title="Inteligência Artificial"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" title="Inteligência Artificial"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+
 </div>
 
 ---
