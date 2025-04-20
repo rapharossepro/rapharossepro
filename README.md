@@ -65,7 +65,7 @@ Busco transformar ideias em soluções eficientes, escaláveis e seguras, com fo
   <a href="https://www.instagram.com/rapharosse/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:seuemail@gmail.com" target="_blank">
+  <a href="mailto:rapharosseprofissional@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
