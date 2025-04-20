@@ -19,15 +19,13 @@ Busco transformar ideias em soluções eficientes, escaláveis e seguras, com fo
 
 ---
 
-## 🧠 Competências Técnicas
-
 <div align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" title="IA"/>
+  <img src="https://img.icons8.com/fluency/48/cloud.png" width="40" title="Cloud Computing"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" title="Inteligência Artificial"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform"/>
