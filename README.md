@@ -11,12 +11,10 @@
 
 ---
 
-<p align="justify">
-  <span style="font-family:'Courier New', monospace; font-size: 15px;">
-    Estudante de ADS com foco em <strong>Cloud, DevOps</strong> e <strong>automação</strong>. Curioso, autodidata e movido por propósito. 
-    Transformo problemas em soluções com <strong>AWS</strong>, <strong>Python</strong>, <strong>Linux</strong> e ferramentas modernas de infraestrutura como código.
-  </span>
-</p>
+<code>
+Estudante de ADS focado em Cloud, DevOps e automação.  
+Movido por propósito, apaixonado por IA e tecnologias que resolvem problemas reais.
+</code>
 
 ---
 
