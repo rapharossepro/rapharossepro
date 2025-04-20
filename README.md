@@ -11,9 +11,12 @@
 
 ---
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com sólida base em infraestrutura e suporte técnico. Apaixonado por tecnologia, venho me especializando em Cloud Computing (AWS), automação, DevOps e linguagens como Python.
-
-Busco transformar ideias em soluções eficientes, escaláveis e seguras, com foco em projetos que unem propósito social e inovação. Tenho interesse particular por temas como Inteligência Artificial, containers, orquestração e infraestrutura como código.
+<p align="justify">
+  <span style="font-family:'Courier New', monospace; font-size: 15px;">
+    Estudante de ADS com foco em <strong>Cloud, DevOps</strong> e <strong>automação</strong>. Curioso, autodidata e movido por propósito. 
+    Transformo problemas em soluções com <strong>AWS</strong>, <strong>Python</strong>, <strong>Linux</strong> e ferramentas modernas de infraestrutura como código.
+  </span>
+</p>
 
 ---
 
