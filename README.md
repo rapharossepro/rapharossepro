@@ -21,12 +21,18 @@ Busco transformar ideias em soluções eficientes, escaláveis e seguras, com fo
 
 ## 🧠 Competências Técnicas
 
-- 🌩️ **Cloud Computing**: AWS (EC2, S3, IAM, VPC, CloudWatch)
-- 🐧 **Linux**: Shell Script, gerenciamento de pacotes, permissões e automação
-- 🐍 **Python**: scripts, automação, integração com APIs
-- ⚙️ **DevOps**: Docker, Git, GitHub Actions, Terraform (básico)
-- 🧰 **Ferramentas**: VSCode, Git, GitHub, CLI, Postman
-- 📦 **Infraestrutura**: Conhecimentos em redes, VLANs, suporte a servidores e usuários
+<div align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" title="AWS"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" title="IA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+</div>
 
 ---
 
@@ -48,11 +54,14 @@ Busco transformar ideias em soluções eficientes, escaláveis e seguras, com fo
 ## 🌐 Redes e Contato
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/raphaeldelrosse/">
+  <a href="https://www.linkedin.com/in/raphaeldelrosse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/rapharosse/">
+  <a href="https://www.instagram.com/rapharosse/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:seuemail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
