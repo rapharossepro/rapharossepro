@@ -11,56 +11,47 @@
 
 ---
 
-<pre>
-<span style="font-family:'Courier New', monospace; font-size: 15px;">
-⌨️ Codifico soluções como quem escreve poesia em shell script.
-☁️ Meu campo de batalha é a nuvem — onde a automação encontra o propósito.
-🧠 Entre bits e bytes, carrego a missão de transformar complexidade em clareza.
-</span>
-</pre>
+## 👋 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com vivência prática em **suporte técnico**, incluindo manutenção de hardware, redes e atendimento ao usuário. Hoje, estou focado em **Cloud Computing (AWS)**, **DevOps**, **automação** e **Inteligência Artificial** — construindo soluções que conectam propósito e tecnologia.
 
 ---
 
-<div align="left">
+## 📚 O que venho estudando
 
-  <img src="https://img.icons8.com/fluency/48/cloud.png" width="40" title="Cloud Computing"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" width="40" title="Inteligência Artificial"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-
+<div style="display: flex; flex-wrap: wrap;" align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA-4B0082?style=for-the-badge&logo=OpenAI&logoColor=white"/>
 </div>
 
 ---
 
 ## 🚀 Projetos em destaque
 
-- 🔭 [SIDIAX](https://github.com/rapharossepro/sidiax): **Projeto conceitual e acadêmico** de uma plataforma de IA para rastreamento de desaparecidos, com base em tecnologias reais e propósito social.
+- 🔭 [SIDIAX](https://github.com/rapharossepro/sidiax): **Sistema Inteligente de Detecção e Ação com IA**, voltado ao rastreamento de pessoas desaparecidas. Um projeto com viés social e potencial de aplicação real.
 
-> ⚠️ *Nota: Este projeto é conceitual e criado com fins acadêmicos e de aprendizado. Toda a estrutura representa uma simulação de aplicação real com potencial de desenvolvimento futuro.*
-
----
-
-## 📊 GitHub Stats
-
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rapharossepro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rapharossepro&layout=compact&theme=radical)
+> ⚠️ *Nota: Projeto acadêmico e conceitual com base em tecnologias reais e propósito social.*
 
 ---
 
-## 🌐 Redes e Contato
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rapharossepro&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapharossepro&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Onde me encontrar
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raphaeldelrosse/" target="_blank">
