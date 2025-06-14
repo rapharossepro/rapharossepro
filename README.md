@@ -6,20 +6,44 @@
 ---
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-In%20Development-yellow)
+![Status](https://img.shields.io/badge/status-Em%20Evolução-yellow)
 ![Made with](https://img.shields.io/badge/made%20with-%E2%9D%A4%20by%20Raphael%20Del%20Rosse-blueviolet)
 
 ---
 
+
 ## 👋 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com vivência prática em **suporte técnico**, incluindo manutenção de hardware, redes e atendimento ao usuário. Hoje, estou focado em **Cloud Computing (AWS)**, **DevOps**, **automação** e **Inteligência Artificial** — construindo soluções que conectam propósito e tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Eletrônica voltada à automação industrial e residencial. Atuo na área de TI desde 2017, com experiência prática adquirida na Secretaria de Educação de Maricá, prestando suporte técnico N1/N2, manutenção de computadores, redes e atendimento a usuários.
+
+Posteriormente, atuei na SDR Locações, empresa familiar, onde fui responsável pela digitalização de processos, organização de fluxos operacionais e implementação de planilhas de controle e automações internas.
+
+Participo de bootcamps voltados para DevOps, Linux e Python, incluindo o programa AWS re/Start pela Escola da Nuvem, no qual conquistei a certificação AWS Cloud Practitioner. Atualmente, também integro o programa Bolsa Futuro Digital, com foco em desenvolvimento Full Stack.
+
+Desenvolvo projetos pessoais de automação com ferramentas como n8n, Make e Manychat, voltados para soluções acessíveis a pequenos e médios negócios.
+
+Sou idealizador do SIDIAX, projeto de graduação que visa criar um sistema inteligente de alertas voltado à identificação de pessoas desaparecidas, utilizando inteligência artificial, análise e tratamento de dados, machine learning, APIs em Flask e infraestrutura escalável na AWS.
+
+Atualmente, me preparo para as certificações AWS Solutions Architect Associate, Developer Associate e FinOps Practitioner, com foco em cloud computing, automação e boas práticas de infraestrutura como código.
+
+
+Sou estudante de Análise e Desenvolvimento de Sistemas com base prática em **suporte técnico** e infraestrutura, incluindo manutenção de hardware, redes, servidores e atendimento ao usuário.
+
+Atualmente sou **certificado AWS Cloud Practitioner** e estou em preparação para as certificações:
+
+- **AWS Solutions Architect Associate (SAA)**
+- **AWS AI Practitioner**
+- **FinOps Certified Practitioner**
+
+Focado em evoluir na área de **Cloud Computing**, **DevOps**, **automação de processos** e **Inteligência Artificial aplicada**.
+
+Tenho paixão por projetos com impacto real — especialmente os que unem tecnologia e propósito social. Meus estudos são guiados por prática contínua, versionamento de projetos no GitHub e participação em bootcamps como **Escola da Nuvem** e **Desenvolve Grupo Boticário**.
 
 ---
 
 ## 📚 O que venho estudando
 
-<div style="display: flex; flex-wrap: wrap;" align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -28,7 +52,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com vivência prática e
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA-4B0082?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IA-4B0082?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
 ---
