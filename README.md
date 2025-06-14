@@ -65,6 +65,41 @@ Tenho paixão por projetos com impacto real — especialmente os que unem tecnol
 
 ---
 
+
+---
+
+## 🧩 Projetos e Atividades Relevantes
+
+### 🧠 SIDIAX – Sistema Inteligente de Detecção, Interação e Ação (em desenvolvimento)
+Projeto acadêmico com alto impacto social, focado em segurança pública e uso de **IA, Machine Learning, IoT e automação** para localizar pessoas desaparecidas.  
+Destaques:
+- Arquitetura escalável com **AWS (EC2, S3, RDS, IAM, SNS, CloudWatch)**  
+- API em Flask, com integração futura a câmeras e sistemas públicos  
+- Uso de reconhecimento facial, biometria e alertas automatizados  
+- Conformidade com **LGPD** e segurança por IAM
+
+---
+
+### ☁️ AWS re/Start – Escola da Nuvem (concluído em 2025)
+Formação intensiva em **Cloud Computing com AWS**, com trilha voltada à certificação Cloud Practitioner.  
+Inclui práticas com:
+- **EC2, S3, RDS, VPC, IAM, SNS, CloudFormation, CloudWatch**
+- Projeto final com aplicação web em arquitetura 3-tier
+- Módulo extra de **Inteligência Artificial com AWS Bedrock, LLMs e automação com IA generativa**
+
+---
+
+### 🌦️ Projeto de Iniciação Científica – Universidade de Vassouras (2025)
+Plataforma inteligente de **previsão climática com IoT, AWS e Machine Learning**.  
+Tecnologias aplicadas:
+- Coleta de dados com sensores IoT via **LoRaWAN + MQTT**
+- Backend em **Django REST + AWS EC2/Elastic Beanstalk**
+- Banco de dados em **RDS**, monitoramento com **CloudWatch**, visualização com **Grafana**
+- Análise preditiva de clima com modelos em Python
+
+---
+
+
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
