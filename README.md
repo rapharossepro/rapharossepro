@@ -44,15 +44,29 @@ Busco uma oportunidade de estágio nas áreas de **RPA**, **Desenvolvimento Back
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos e Atividades Relevantes
 
-- 🔭 [SIDIAX](https://github.com/rapharossepro/sidiax): **Sistema Inteligente de Detecção e Ação com IA**, voltado ao rastreamento de pessoas desaparecidas. Um projeto com viés social e potencial de aplicação real.
+<p align="center">
+  <img src="https://img.shields.io/badge/IA-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reconhecimento%20Facial-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Biometria-critical?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projeto%20Acadêmico-orange?style=for-the-badge" />
+</p>
 
-> ⚠️ *Nota: Projeto acadêmico e conceitual com base em tecnologias reais e propósito social.*
+### 🧠 [SIDIAX](https://github.com/rapharossepro/sidiax) – Sistema Inteligente de Detecção, Interação e Ação (em desenvolvimento)
+Projeto acadêmico com alto impacto social, focado em segurança pública e uso de **IA, Machine Learning, IoT e automação** para localizar pessoas desaparecidas.
+
+Destaques:
+- Arquitetura escalável com **AWS (EC2, S3, RDS, IAM, SNS, CloudWatch)**
+- API em Flask, com integração futura a câmeras e sistemas públicos
+- Uso de reconhecimento facial, biometria e alertas automatizados
+- Conformidade com **LGPD** e segurança por IAM
+
+> ⚠️ *Projeto acadêmico e conceitual com base em tecnologias reais e propósito social.*
 
 ---
-
-## 🧩 Projetos e Atividades Relevantes
 
 ### 🧠 SIDIAX – Sistema Inteligente de Detecção, Interação e Ação (em desenvolvimento)
 Projeto acadêmico com alto impacto social, focado em segurança pública e uso de **IA, Machine Learning, IoT e automação** para localizar pessoas desaparecidas.  
