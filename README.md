@@ -11,6 +11,22 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/IA-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EF6C00?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
 ## 👋 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Eletrônica voltada à automação industrial e residencial. Atuo na área de TI desde 2017, com experiência prática adquirida na Secretaria de Educação de Maricá, prestando suporte técnico N1/N2, manutenção de computadores, redes e atendimento a usuários.
@@ -44,22 +60,6 @@ Busco uma oportunidade de estágio nas áreas de **RPA**, **Desenvolvimento Back
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IA-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EF6C00?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
 ## 🚀 Projetos e Atividades Relevantes
 
 ### 🧠 [SIDIAX](https://github.com/rapharossepro/sidiax) – Sistema Inteligente de Detecção, Interação e Ação (em desenvolvimento)
@@ -72,16 +72,6 @@ Destaques:
 - Conformidade com **LGPD** e segurança por IAM
 
 > ⚠️ *Projeto acadêmico e conceitual com base em tecnologias reais e propósito social.*
-
----
-
-### 🧠 SIDIAX – Sistema Inteligente de Detecção, Interação e Ação (em desenvolvimento)
-Projeto acadêmico com alto impacto social, focado em segurança pública e uso de **IA, Machine Learning, IoT e automação** para localizar pessoas desaparecidas.  
-Destaques:
-- Arquitetura escalável com **AWS (EC2, S3, RDS, IAM, SNS, CloudWatch)**  
-- API em Flask, com integração futura a câmeras e sistemas públicos  
-- Uso de reconhecimento facial, biometria e alertas automatizados  
-- Conformidade com **LGPD** e segurança por IAM
 
 ---
 
