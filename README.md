@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=1ED760&center=true&vCenter=true&width=700&height=45&lines=Raphael+Del+Rosse+%7C+An%C3%A1lise+e+Desenvolvimento+de+Sistemas+(2025-2027);DevOps+Enthusiast+%7C+AWS+%7C+Python+%7C+Automa%C3%A7%C3%A3o+%7C+IA" />
-</p>
+<h1 align="center">👨‍💻 Raphael Del Rosse</h1>
+<h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Automação | Estudante de ADS (2025–2027)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IA-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
