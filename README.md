@@ -1,16 +1,6 @@
 <h1 align="center">👨‍💻 Raphael Del Rosse</h1>
 <h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Automação</h3>
 
-<p align="center"><em>"Because every person leaves a signal."</em></p>
-
----
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-Em%20Evolução-yellow)
-![Made with](https://img.shields.io/badge/made%20with-%E2%9D%A4%20by%20Raphael%20Del%20Rosse-blueviolet)
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/IA-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -27,6 +17,16 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
+<p align="center"><em>"Because every person leaves a signal."</em></p>
+
+---
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Status](https://img.shields.io/badge/status-Em%20Evolução-yellow)
+![Made with](https://img.shields.io/badge/made%20with-%E2%9D%A4%20by%20Raphael%20Del%20Rosse-blueviolet)
+
+---
+
 ## 👋 Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Eletrônica voltada à automação industrial e residencial. Atuo na área de TI desde 2017, com experiência prática adquirida na Secretaria de Educação de Maricá, prestando suporte técnico N1/N2, manutenção de computadores, redes e atendimento a usuários.
@@ -34,9 +34,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica
 Posteriormente, atuei na SDR Locações, empresa familiar, onde fui responsável pela digitalização de processos, organização de fluxos operacionais e implementação de planilhas de controle e automações internas.
 
 Participo de bootcamps voltados para DevOps, Linux e Python, incluindo:
-- **AWS re/Start** pela Escola da Nuvem
-- **Bootcamp DevOps** da Atlântico/Avanti
-- **Backend com Python pela Softex Pernambuco**, realizado através do programa **Bolsa Futuro Digital**
+- [**AWS re/Start** pela Escola da Nuvem](https://escoladanuvem.org/curso-aws-fundamentos/)
+- [**Bootcamp DevOps** da Atlântico/Avanti](https://atlanticoavanti.ensinio.com/g/bootcamp-devops/community)
+- [**Backend com Python pela Softex Pernambuco**](https://bfd.softexpe.org.br/), realizado através do programa **Bolsa Futuro Digital**
 
 Desenvolvo projetos pessoais de automação com ferramentas como **n8n**, **Make** e **Manychat**, voltados para soluções acessíveis a pequenos e médios negócios.
 
@@ -48,11 +48,11 @@ Busco uma oportunidade de estágio nas áreas de **RPA**, **Desenvolvimento Back
 
 ## 📖 Estudos Atuais
 
-- **Backend Python** (Softex Pernambuco / Bolsa Futuro Digital)
-- **Docker e Kubernetes**
-- **RPA com n8n e UiPath**
+- [**Backend Python** (Softex Pernambuco / Bolsa Futuro Digital)](https://bfd.softexpe.org.br/)
+- [**Formações DevOps - Alura**](https://cursos.alura.com.br/category/devops)
+- [**Automação com n8n - Udemy**](https://www.udemy.com/course/automacao-e-criacao-de-agentes-de-ia-com-n8n-n8n-completo)
 - **Desenvolvimento de microserviços**
-- **Git, GitHub e versionamento de código**
+- [**Curso Python do Básico ao Avançado - Udemy**](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado)
 - **Preparação para certificações:**
   - AWS Solutions Architect Associate (SAA)
   - AWS Developer Associate (DVA)
@@ -62,7 +62,11 @@ Busco uma oportunidade de estágio nas áreas de **RPA**, **Desenvolvimento Back
 
 ## 🚀 Projetos e Atividades Relevantes
 
+
+
 ### 🧠 [SIDIAX](https://github.com/rapharossepro/sidiax) – Sistema Inteligente de Detecção, Interação e Ação (em desenvolvimento)
+Idealizado por mim durante o curso **AWS re/Start** pela Escola da Nuvem, o SIDIAX nasceu dentro de um grupo de estudos formado por estudantes entusiasmados com inovação e impacto social. O projeto recebeu diversas contribuições e ideias ao longo do curso, e atualmente está sendo expandido como meu projeto oficial de graduação.
+
 Projeto acadêmico com alto impacto social, focado em segurança pública e uso de **IA, Machine Learning, IoT e automação** para localizar pessoas desaparecidas.
 
 Destaques:
@@ -72,6 +76,20 @@ Destaques:
 - Conformidade com **LGPD** e segurança por IAM
 
 > ⚠️ *Projeto acadêmico e conceitual com base em tecnologias reais e propósito social.*
+
+---
+
+
+
+## 🗺️ Roadmap do Projeto SIDIAX
+
+O projeto está sendo estruturado em fases para garantir sua evolução contínua e alinhamento com boas práticas de desenvolvimento em nuvem e IA:
+
+- ✅ **Fase 1 – Concepção e prototipagem:** definição da ideia, estudo de tecnologias e arquitetura base (concluído no AWS re/Start)
+- 🔄 **Fase 2 – Desenvolvimento MVP:** implementação de API Flask, banco em AWS RDS, armazenamento em S3, arquitetura escalável com EC2 (em andamento)
+- ⏭️ **Fase 3 – Integração com dispositivos e APIs externas:** conexão com câmeras públicas, ferramentas de reconhecimento facial e disparo de alertas via SNS
+- 🛡️ **Fase 4 – Segurança e LGPD:** reforço nas práticas de segurança, anonimização e consentimento de dados
+- 🚀 **Fase 5 – Apresentação como projeto de graduação:** documentação, validação técnica e publicação acadêmica
 
 ---
 
