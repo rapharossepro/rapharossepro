@@ -1,5 +1,6 @@
-<h1 align="center">👨‍💻 Raphael Del Rosse</h1>
-<h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Automação</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=1ED760&center=true&vCenter=true&width=600&height=45&lines=👨‍💻+Raphael+Del+Rosse;Cloud+%26+DevOps+Enthusiast+|+Python+|+AWS+|+Linux+|+Automação" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/IA-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
