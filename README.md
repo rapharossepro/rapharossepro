@@ -48,11 +48,13 @@ Busco uma oportunidade de estágio nas áreas de **RPA**, **Desenvolvimento Back
 
 <p align="center">
   <img src="https://img.shields.io/badge/IA-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EF6C00?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reconhecimento%20Facial-lightgrey?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Biometria-critical?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projeto%20Acadêmico-orange?style=for-the-badge" />
 </p>
 
 ### 🧠 [SIDIAX](https://github.com/rapharossepro/sidiax) – Sistema Inteligente de Detecção, Interação e Ação (em desenvolvimento)
