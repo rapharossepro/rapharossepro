@@ -1,141 +1,85 @@
-<h1 align="center">👨‍💻 Raphael Del Rosse</h1>
-<h3 align="center">Cloud & DevOps Enthusiast | Python | AWS | Linux | Automação | Estudante de ADS (2025–2027)</h3>
+# 👋 Olá, eu sou o Raphael Del Rosse
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IA-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-EF6C00?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-<p align="center"><em>"Because every person leaves a signal."</em></p>
+Cloud & DevOps Enthusiast | Python Developer | Infraestrutura | 📧 rapharosseprofissional@gmail.com | 🌐 [rapharosse.dev.br](#) | 🔗 [LinkedIn](https://www.linkedin.com/in/raphaeldelrosse/) | 📍 Maricá - RJ, Brasil
 
 ---
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Status](https://img.shields.io/badge/status-Em%20Evolução-yellow)
-![Made with](https://img.shields.io/badge/made%20with-%E2%9D%A4%20by%20Raphael%20Del%20Rosse-blueviolet)
+## 🧠 Sobre mim
+
+Sou um entusiasta de tecnologia apaixonado por automação, backend, cloud computing e inteligência artificial aplicada.  
+Tenho experiência com infraestrutura de TI, suporte técnico e atualmente estou em transição de carreira para DevOps.  
+Participo ativamente de bootcamps, cursos e projetos autorais voltados para soluções escaláveis e de impacto social.
 
 ---
 
-## 👋 Sobre mim
+## 💻 Tecnologias e Competências
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Eletrônica voltada à automação industrial e residencial. Atuo na área de TI desde 2017, com experiência prática adquirida na Secretaria de Educação de Maricá, prestando suporte técnico N1/N2, manutenção de computadores, redes e atendimento a usuários.
-
-Posteriormente, atuei na SDR Locações, empresa familiar, onde fui responsável pela digitalização de processos, organização de fluxos operacionais e implementação de planilhas de controle e automações internas.
-
-Participo de bootcamps voltados para DevOps, Linux e Python, incluindo:
-- [**AWS re/Start** pela Escola da Nuvem](https://escoladanuvem.org/curso-aws-fundamentos/)
-- [**Bootcamp DevOps** da Atlântico/Avanti](https://atlanticoavanti.ensinio.com/g/bootcamp-devops/community)
-- [**Backend com Python pela Softex Pernambuco**](https://bfd.softexpe.org.br/), realizado através do programa **Bolsa Futuro Digital**
-
-Desenvolvo projetos pessoais de automação com ferramentas como **n8n**, **Make** e **Manychat**, voltados para soluções acessíveis a pequenos e médios negócios.
-
-Sou idealizador do **SIDIAX**, projeto de graduação que visa criar um sistema inteligente de alertas voltado à identificação de pessoas desaparecidas, utilizando **inteligência artificial**, **machine learning**, **APIs em Flask** e infraestrutura escalável na **AWS**.
-
-Busco uma oportunidade de estágio nas áreas de **RPA**, **Desenvolvimento Backend com Python**, **Infraestrutura em Cloud/DevOps** e **Inteligência Artificial**, com foco em boas práticas, automação e impacto social através da tecnologia.
+**Linguagens e Frameworks:** Python, Flask, Django, Bash, JavaScript  
+**DevOps & Cloud:** AWS (EC2, S3, RDS, IAM, SNS), Docker, GitHub Actions, Kubernetes, n8n  
+**Ferramentas e Práticas:** Linux, CI/CD, Grafana, Prometheus, Monitoramento, API REST  
+**Metodologias:** Agile, Scrum, Kanban, Design Thinking
 
 ---
 
-## 📖 Estudos Atuais
+## 🎓 Formação e Certificações
 
-- [**Backend Python** (Softex Pernambuco / Bolsa Futuro Digital)](https://bfd.softexpe.org.br/)
-- [**Formações DevOps - Alura**](https://cursos.alura.com.br/category/devops)
-- [**Automação com n8n - Udemy**](https://www.udemy.com/course/automacao-e-criacao-de-agentes-de-ia-com-n8n-n8n-completo)
-- **Desenvolvimento de microserviços**
-- [**Curso Python do Básico ao Avançado - Udemy**](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado)
-- **Preparação para certificações:**
-  - AWS Solutions Architect Associate (SAA)
-  - AWS Developer Associate (DVA)
-  - FinOps Certified Practitioner
+- 🎓 Análise e Desenvolvimento de Sistemas – Univ. de Vassouras (2025–2027)  
+- 📜 Técnico em Eletrônica – FAETEC Henrique Lage  
+- ✅ AWS Cloud Practitioner – Escola da Nuvem (2025)  
+- 📚 DevOps – Bootcamp Atlântico/Avanti  
+- 📚 Backend com Python – Softex Pernambuco (Bolsa Futuro Digital)  
+- 📚 Linux e Infraestrutura – DIO + Santander
 
 ---
 
-## 🚀 Projetos e Atividades Relevantes
+## 🧩 Projetos Relevantes
 
+### 🔎 [SIDIAX – Sistema Inteligente de Detecção, Interação e Ação](https://github.com/rapharossepro/sidiax)
 
+Projeto de graduação voltado à **busca ativa de pessoas desaparecidas**, com uso de **IA, Machine Learning, automação e AWS**.
 
-### 🧠 [SIDIAX](https://github.com/rapharossepro/sidiax) – Sistema Inteligente de Detecção, Interação e Ação (em desenvolvimento)
-Idealizado por mim durante o curso **AWS re/Start** pela Escola da Nuvem, o SIDIAX nasceu dentro de um grupo de estudos formado por estudantes entusiasmados com inovação e impacto social. O projeto recebeu diversas contribuições e ideias ao longo do curso, e atualmente está sendo expandido como meu projeto oficial de graduação.
-
-Projeto acadêmico com alto impacto social, focado em segurança pública e uso de **IA, Machine Learning, IoT e automação** para localizar pessoas desaparecidas.
-
-Destaques:
-- Arquitetura escalável com **AWS (EC2, S3, RDS, IAM, SNS, CloudWatch)**
-- API em Flask, com integração futura a câmeras e sistemas públicos
-- Uso de reconhecimento facial, biometria e alertas automatizados
-- Conformidade com **LGPD** e segurança por IAM
-
-> ⚠️ *Projeto acadêmico e conceitual com base em tecnologias reais e propósito social.*
+**Destaques:**
+- Backend em Flask com API Rest
+- Reconhecimento facial com IA e biometria
+- Arquitetura escalável com serviços AWS
+- Alertas automáticos via SNS
+- Compliance com LGPD
 
 ---
 
-
-
-## 🗺️ Roadmap do Projeto SIDIAX
-
-O projeto está sendo estruturado em fases para garantir sua evolução contínua e alinhamento com boas práticas de desenvolvimento em nuvem e IA:
-
-- ✅ **Fase 1 – Concepção e prototipagem:** definição da ideia, estudo de tecnologias e arquitetura base (concluído no AWS re/Start)
-- 🔄 **Fase 2 – Desenvolvimento MVP:** implementação de API Flask, banco em AWS RDS, armazenamento em S3, arquitetura escalável com EC2 (em andamento)
-- ⏭️ **Fase 3 – Integração com dispositivos e APIs externas:** conexão com câmeras públicas, ferramentas de reconhecimento facial e disparo de alertas via SNS
-- 🛡️ **Fase 4 – Segurança e LGPD:** reforço nas práticas de segurança, anonimização e consentimento de dados
-- 🚀 **Fase 5 – Apresentação como projeto de graduação:** documentação, validação técnica e publicação acadêmica
+### ⚙️ Calculadora de IMC Avançada com IA
+Projeto pessoal que estima idade biológica com base em dados corporais (bioimpedância, circunferência, etc).  
+Com sugestões inteligentes baseadas em faixas hormonais e sexuais.
 
 ---
 
-### ☁️ AWS re/Start – Escola da Nuvem (concluído em 2025)
-Formação intensiva em **Cloud Computing com AWS**, finalizada com a obtenção da certificação **AWS Certified Cloud Practitioner**.  
-Inclui práticas com:
-- **EC2, S3, RDS, VPC, IAM, SNS, CloudFormation, CloudWatch**
-- Projeto final com aplicação web em arquitetura 3-tier
-- Módulo extra de **Inteligência Artificial com AWS Bedrock, LLMs e automação com IA generativa**
+## ✍️ Escrevendo meu primeiro livro
+
+Atualmente desenvolvendo um livro sobre **Inteligência Artificial aplicada ao ambiente de trabalho**, voltado para empresas e profissionais que desejam adotar IA com segurança, ética e produtividade real.
 
 ---
 
-### 🌦️ Projeto de Iniciação Científica – Universidade de Vassouras (2025)
-Plataforma inteligente de **previsão climática com IoT, AWS e Machine Learning**.  
-Tecnologias aplicadas:
-- Coleta de dados com sensores IoT via **LoRaWAN + MQTT**
-- Backend em **Django REST + AWS EC2/Elastic Beanstalk**
-- Banco de dados em **RDS**, monitoramento com **CloudWatch**, visualização com **Grafana**
-- Análise preditiva de clima com modelos em Python
-
----
-
-## 📈 Estatísticas do GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rapharossepro&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapharossepro&layout=compact&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rapharossepro&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🤝 Vamos conversar?
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/raphaeldelrosse/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/rapharosse/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:rapharosseprofissional@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Estou aberto a colaborações, networking, projetos com propósito e inovação.  
+Você me encontra por aqui:
+
+- 📧 E-mail: [rapharosseprofissional@gmail.com](mailto:rapharosseprofissional@gmail.com)  
+- 💬 Discord: [Clique para me adicionar](https://discord.com/users/1317969768954724454)  
+- 💼 LinkedIn: [linkedin.com/in/raphaeldelrosse](https://linkedin.com/in/raphaeldelrosse)
 
 ---
 
-<p align="center"><strong><em>"A medida de um homem é o que ele faz com o poder."</em><br>⚖️ Platão</strong></p>
+> *“A medida de um homem é o que ele faz com o poder.”* – ⚖️ Platão
