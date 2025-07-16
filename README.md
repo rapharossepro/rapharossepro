@@ -1,85 +1,93 @@
-# 👋 Olá, eu sou o Raphael Del Rosse
+<h4 align="center">Olá, eu sou o Raphael!<br>Desenvolvedor em formação, apaixonado por resolver problemas com tecnologia, automação e inteligência artificial.<br>Atualmente focado em DevOps, Cloud AWS, Python e infraestrutura moderna, com o objetivo de transformar conhecimento em impacto real.</h4>
 
-Cloud & DevOps Enthusiast | Python Developer | Infraestrutura | 📧 rapharosseprofissional@gmail.com | 🌐 [rapharosse.dev.br](#) | 🔗 [LinkedIn](https://www.linkedin.com/in/raphaeldelrosse/) | 📍 Maricá - RJ, Brasil
+###
 
----
+<div align="center">
+  <a href="https://www.instagram.com/rapharosse/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.com/users/1317969768954724454" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:rapharosseprofissional@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/raphaeldelrosse/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-## 🧠 Sobre mim
+###
 
-Sou um entusiasta de tecnologia apaixonado por automação, backend, cloud computing e inteligência artificial aplicada.  
-Tenho experiência com infraestrutura de TI, suporte técnico e atualmente estou em transição de carreira para DevOps.  
-Participo ativamente de bootcamps, cursos e projetos autorais voltados para soluções escaláveis e de impacto social.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="aws" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript" />
+</div>
 
----
+###
 
-## 💻 Tecnologias e Competências
+<h2 align="left">📌 Sobre mim</h2>
 
-**Linguagens e Frameworks:** Python, Flask, Django, Bash, JavaScript  
-**DevOps & Cloud:** AWS (EC2, S3, RDS, IAM, SNS), Docker, GitHub Actions, Kubernetes, n8n  
-**Ferramentas e Práticas:** Linux, CI/CD, Grafana, Prometheus, Monitoramento, API REST  
-**Metodologias:** Agile, Scrum, Kanban, Design Thinking
+###
 
----
+<h4 align="left">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas – Universidade de Vassouras (2025–2027)<br><br>
+🛠️ Formação técnica em Eletrônica com foco em automação (FAETEC Henrique Lage)<br><br>
+☁️ Certificado AWS Cloud Practitioner – Escola da Nuvem<br><br>
+🐍 Estudando Python, Docker, Kubernetes, CI/CD e Machine Learning<br><br>
+📚 Escrevendo meu primeiro livro sobre Inteligência Artificial no ambiente de trabalho<br><br>
+🚀 Idealizador do projeto SIDIAX, voltado para a busca ativa de pessoas desaparecidas com IA e automações<br><br>
+💡 Participante de bootcamps como Avanti DevOps, Softex Backend Python e Bolsa Futuro Digital<br><br>
+🎯 Estudando para as certificações AWS SAA, DVA e FinOps Certified Practitioner<br><br>
+❤️ Tenho um LinkedIn ativo onde compartilho dicas, aprendizados e projetos da área tech
+</h4>
 
-## 🎓 Formação e Certificações
+###
 
-- 🎓 Análise e Desenvolvimento de Sistemas – Univ. de Vassouras (2025–2027)  
-- 📜 Técnico em Eletrônica – FAETEC Henrique Lage  
-- ✅ AWS Cloud Practitioner – Escola da Nuvem (2025)  
-- 📚 DevOps – Bootcamp Atlântico/Avanti  
-- 📚 Backend com Python – Softex Pernambuco (Bolsa Futuro Digital)  
-- 📚 Linux e Infraestrutura – DIO + Santander
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/rapharossepro/rapharossepro/output/snake.svg" alt="Snake animation" />
 
-## 🧩 Projetos Relevantes
+###
 
-### 🔎 [SIDIAX – Sistema Inteligente de Detecção, Interação e Ação](https://github.com/rapharossepro/sidiax)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rapharossepro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rapharossepro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Projeto de graduação voltado à **busca ativa de pessoas desaparecidas**, com uso de **IA, Machine Learning, automação e AWS**.
+###
 
-**Destaques:**
-- Backend em Flask com API Rest
-- Reconhecimento facial com IA e biometria
-- Arquitetura escalável com serviços AWS
-- Alertas automáticos via SNS
-- Compliance com LGPD
+<img align="right" height="150" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif"  />
 
----
-
-### ⚙️ Calculadora de IMC Avançada com IA
-Projeto pessoal que estima idade biológica com base em dados corporais (bioimpedância, circunferência, etc).  
-Com sugestões inteligentes baseadas em faixas hormonais e sexuais.
-
----
-
-## ✍️ Escrevendo meu primeiro livro
-
-Atualmente desenvolvendo um livro sobre **Inteligência Artificial aplicada ao ambiente de trabalho**, voltado para empresas e profissionais que desejam adotar IA com segurança, ética e produtividade real.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rapharossepro&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapharossepro&layout=compact&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rapharossepro&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Vamos conversar?
-
-Estou aberto a colaborações, networking, projetos com propósito e inovação.  
-Você me encontra por aqui:
-
-- 📧 E-mail: [rapharosseprofissional@gmail.com](mailto:rapharosseprofissional@gmail.com)  
-- 💬 Discord: [Clique para me adicionar](https://discord.com/users/1317969768954724454)  
-- 💼 LinkedIn: [linkedin.com/in/raphaeldelrosse](https://linkedin.com/in/raphaeldelrosse)
-
----
-
-> *“A medida de um homem é o que ele faz com o poder.”* – ⚖️ Platão
+###
