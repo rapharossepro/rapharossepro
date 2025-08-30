@@ -62,30 +62,30 @@
 
 ## 📌 Sobre Mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** – Universidade de Vassouras *(2025–2027)*  
-- 🛠️ Técnico em Eletrônica – FAETEC Henrique Lage  
-- ☁️ Certificado **AWS Cloud Practitioner** – Escola da Nuvem (2025)  
-- 📚 Atualmente estudando **Python, Docker, Kubernetes, CI/CD e Machine Learning** pela **Udemy**  
-- 🔧 Aprofundando a trilha **DevOps** pela **Alura**  
-- 📖 Escrevendo meu primeiro livro sobre **Inteligência Artificial aplicada ao ambiente de trabalho**  
-- 💡 Participante de bootcamps como **Avanti DevOps**, **Softex Backend Python** e **Bolsa Futuro Digital**  
-- 🎯 Em preparação para as certificações: **AWS SAA**, **AWS DVA** e **FinOps Certified Practitioner**  
-- 💬 Ativo no LinkedIn, onde compartilho dicas, projetos e experiências da área tech
-
+- 🎓 Graduando em **Análise e Desenvolvimento de Sistemas** pela Universidade de Vassouras *(2025–2027)*  
+- 💻 **Bolsista de Backend Python** pela **Softex Pernambuco** – Projeto **Bolsa Futuro Digital**  
+- ☁️ Certificado **AWS Cloud Practitioner** – Escola da Nuvem *(2025)*  
+- 🔧 Aprofundando conhecimentos em **Ferramentas de DevOps**: Docker, Kubernetes, Terraform, Ansible e CI/CD  
+- 🤖 Desenvolvendo **projetos pessoais em Inteligência Artificial**, explorando automação e soluções aplicadas  
+- 💬 Compartilho minha evolução e projetos no [LinkedIn](https://www.linkedin.com/in/raphaeldelrosse/)
+  
 ---
 
-## 🚀 Projetos e Destaques
+## Projetos e Destaques
 
-### 🧠 SIDIAX – Sistema Inteligente de Detecção, Interação e Ação
+### SIDIAX – Sistema Inteligente de Detecção, Interação e Ação
 Sistema de alertas com IA e automações para busca ativa de pessoas desaparecidas.  
 Tecnologias: Flask, AWS (S3, EC2, SNS, IAM), reconhecimento facial, integração com APIs públicas, arquitetura escalável.  
 🔗 [Ver projeto](https://github.com/rapharossepro/sidiax)
 
-### ☁️ Projeto AWS re/Start – Escola da Nuvem (2025)
+### Projeto AWS re/Start – Escola da Nuvem (2025)
 Formação prática em computação em nuvem com projeto final utilizando arquitetura 3-tier, EC2, S3, RDS, CloudFormation e monitoramento com CloudWatch.  
 Inclui módulo de **IA com AWS Bedrock e LLMs**.
 
-### 🌦️ Iniciação Científica – Plataforma de Previsão Climática Inteligente
+### Mentoria Técnica – Escola da Nuvem
+Atuação como mentor voluntário em **Cloud AWS**, ajudando estudantes a se prepararem para a primeira certificação (**AWS Cloud Practitioner**) e a ingressarem no mercado de tecnologia.  
+
+### Iniciação Científica – Plataforma de Previsão Climática Inteligente
 Desenvolvimento de backend com Django REST, sensores IoT via LoRaWAN + MQTT, banco de dados RDS, visualização em Grafana e modelos preditivos em Python.
 
 ---
